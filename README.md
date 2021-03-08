@@ -24,6 +24,9 @@ Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
 <!--
 ### 📌 Pinned Repositories
 
