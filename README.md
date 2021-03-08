@@ -51,11 +51,22 @@ Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github
 
 <details>
     <summary><b>📫 How to reach me</b></summary>
-<br>
 <p align="center">
- <a href="https://KamyabAbedi.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://de.linkedin.com/in/kamyababedi" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:kamyababedi@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+	<a href="https://twitter.com/KamyabAbedi" target="blank">
+		<img align="center" src="assets/contacts/twitter.svg" alt="twitter" height="40" width="40" />
+	</a>
+    <a href="https://de.linkedin.com/in/kamyababedi" target="blank">
+		<img align="center" src="assets/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
+	</a>
+	<a href="https://www.instagram.com/_k4my4b_/" target="blank">
+		<img align="center" src="assets/contacts/instagram.svg" alt="instagram" height="40" width="40" />
+	</a>
+	<a href="https://t.me/kamyabXabedi" target="blank">
+		<img align="center" src="assets/contacts/telegram.svg" alt="telegram" height="40" width="40" />
+	</a>
+	<a href="mailto:kamyababedi@gmail.com" target="blank">
+		<img align="center" src="assets/contacts/email.svg" alt="email" height="40" width="40" />
+        </a>
 </p>
 </details>
 
