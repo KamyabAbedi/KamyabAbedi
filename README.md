@@ -9,6 +9,9 @@
 I’m Kamyab, I’m third year student of CE at Shahid Beheshti University and interested in Back-end programming, IT security, testing and other geek stuff.
 
 Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github.io/)
+
+---
+
 <!--
 ### 📌 Pinned Repositories
 
