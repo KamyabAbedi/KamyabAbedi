@@ -6,13 +6,11 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/KamyabAbedi)
 
 ### Hi there! 👋🏻
-I’m Kamyab, I’m third year student of CE at Shahid Beheshti University and interested in Back-end programming, IT security, testing and other geek stuff.
-
+I’m Kamyab, I’m third year student of CE at Shahid Beheshti University and interested in Back-end programming, IT security, testing and other geek stuff.</br>
 Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github.io/)
 
 ---
 ### 💼 Skills
-
 ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
@@ -26,7 +24,6 @@ Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
 <!--
 ### 📌 Pinned Repositories
 
@@ -37,39 +34,26 @@ Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github
 </a>
 -->
 ---
-
 <details>
     <summary><b>📈 GitHub Stats</b></summary>
   <br>
 <a href="https://github.com/KamyabAbedi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamyabAbedi&theme=nord&show_icons=true4" />
 </a>
-
+  
 <a href="https://github.com/KamyabAbedi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=KamyabAbedi&theme=nord&show_icons=true" alt="Kamyab's GitHub Stats" />
 </a>
-
-<br>
-<br>
-  
-
-<br>
-
-
 </details>
 
 <details>
     <summary><b>📫 How to reach me</b></summary>
-
 <br>
-
 <p align="center">
  <a href="https://KamyabAbedi.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://de.linkedin.com/in/kamyababedi" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:kamyababedi@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
-
 </details>
 
 
