@@ -22,10 +22,11 @@ Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github
 </a>
 -->
 
-### 📈GitHub Stats
+---
 
-<br>
-
+<details>
+    <summary><b>📈 GitHub Stats</b></summary>
+  <br>
 <a href="https://github.com/KamyabAbedi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamyabAbedi&theme=nord&show_icons=true4" />
 </a>
@@ -36,8 +37,12 @@ Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github
 
 <br>
 <br>
+  
 
----
+<br>
+
+
+</details>
 
 <details>
     <summary><b>🔨 Languages/Tools</b></summary>
