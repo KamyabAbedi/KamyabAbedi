@@ -1,4 +1,4 @@
-[![Kamyab's GitHub Banner](./assets/banner(1).jpg)](https://kamyababedi.github.io)
+[![Kamyab's GitHub Banner](./assets/Banner.jpg)](https://kamyababedi.github.io)
 
 [![Visits Badge](https://badges.pufler.dev/visits/KamyabAbedi/KamyabAbedi)](https://kamyababedi.github.io)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KamyabAbedi)
