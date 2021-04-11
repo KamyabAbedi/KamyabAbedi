@@ -40,15 +40,10 @@ Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github
 <details>
     <summary><b>📈 GitHub Stats</b></summary>
 	<p align="center">
-  <br>
-<a href="https://github.com/KamyabAbedi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamyabAbedi&theme=nord&show_icons=true4" />
-</a>
-  
-<a href="https://github.com/KamyabAbedi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=KamyabAbedi&theme=nord&show_icons=true" alt="Kamyab's GitHub Stats" />
-</a>
-</p>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamyabAbedi&show_icons=true&theme=nord" />
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamyabAbedi&layout=compact&theme=nord" />
+	</p>
+
 </details>
 
 <details>
