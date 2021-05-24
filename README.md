@@ -6,7 +6,7 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/KamyabAbedi)
 
 ### Hi there! 👋🏻
-I’m Kamyab, I’m third year student of CE at Shahid Beheshti University and interested in Back-end programming, IT security, testing and other geek stuff.</br>
+Current I’m third year student of CE at Shahid Beheshti University and interested in Back‑end programming, IT security, ML and other geek stuff. 2+ years experience specializing in the backend development, infrastructure automation. Super nerd who loves Linux and enjoys to customize all of the development environment. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises. I’m passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best.</br>
 Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github.io/)
 
 ---
