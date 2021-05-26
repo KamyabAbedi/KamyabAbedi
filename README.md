@@ -43,7 +43,9 @@ Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github
 	<p align="center">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamyabAbedi&show_icons=true&theme=nord" />
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamyabAbedi&layout=compact&theme=nord" />
+		<img src="https://github-profile-trophy.vercel.app/?username=KamyabAbedi&theme=nord&row=1&column=6" width="100%" >
 	</p>
+	
 
 </details>
 
