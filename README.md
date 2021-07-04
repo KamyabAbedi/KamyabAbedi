@@ -40,6 +40,7 @@ Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github
 ---
 <details>
     <summary><b>📈 GitHub Stats</b></summary>
+	<br>
 	<p align="center">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamyabAbedi&show_icons=true&theme=nord" />
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamyabAbedi&layout=compact&theme=nord" />
@@ -51,11 +52,12 @@ Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github
 
 <details>
     <summary><b>📫 How to reach me</b></summary>
-<p align="center">
+	<br>
+	<p align="center">
 	<a href="https://twitter.com/KamyabAbedi" target="blank">
 		<img align="center" src="assets/contacts/twitter.svg" alt="twitter" height="40" width="40" />
 	</a>
-    <a href="https://de.linkedin.com/in/kamyababedi" target="blank">
+    	<a href="https://de.linkedin.com/in/kamyababedi" target="blank">
 		<img align="center" src="assets/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
 	</a>
 	<a href="https://www.instagram.com/_k4my4b_/" target="blank">
