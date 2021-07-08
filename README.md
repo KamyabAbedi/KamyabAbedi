@@ -24,6 +24,7 @@ Want to know more about me? [Check out my portfolio.](https://KamyabAbedi.github
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=4AB197)
